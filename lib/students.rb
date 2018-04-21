@@ -2,7 +2,7 @@
 
 def highest_student_gpa
 
-  "SELECT MAX (gps) FROM STUDENTS"
+  "SELECT MAX (gpa) FROM STUDENTS"
 end
 
 def lowest_student_gpa
