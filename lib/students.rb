@@ -1,6 +1,8 @@
-## Code your solution below. Note that your SQL queries should be in quotation marks. 
+## Code your solution below. Note that your SQL queries should be in quotation marks.
 
 def highest_student_gpa
+
+  "SELECT MAX (gps) FROM STUDENTS"
 end
 
 def lowest_student_gpa
